@@ -42,7 +42,6 @@ Trained and evaluated on **[UNSW-NB15](https://research.unsw.edu.au/projects/uns
 git clone https://github.com/Bishurestz/GUI_ML_IDS.git
 cd GUI_ML_IDS
 python install_dependencies.py
-python ids_simplified.py
 ```
 
 Then select a UNSW-NB15 training CSV and testing CSV from the sidebar and click **Initiate Scan**.
@@ -53,4 +52,4 @@ This project was built to apply machine learning techniques to a practical cyber
 
 ## Notes
 
-- See `code details.docx` and `NETWATCH_capstone_project.docx` for extended write-up and technical documentation.
+- See `NETWATCH_capstone_project.docx` for extended write-up and technical documentation.
